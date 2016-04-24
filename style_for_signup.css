@@ -10,3 +10,9 @@ th, td {
 	padding: 3px;
 	color: black;
 }
+
+body{
+	text-align: center;
+	color: yellow;
+	background-color: green;
+}
